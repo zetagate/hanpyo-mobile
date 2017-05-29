@@ -1,0 +1,19 @@
+
+<html>
+<head>
+<script language="JavaScript" type="text/JavaScript">
+var mobileKeyWords = new Array('iPhone', 'iPod', 'BlackBerry', 'Android', 'Windows CE', 'LG', 'MOT', 'SAMSUNG', 'SonyEricsson');
+for (var word in mobileKeyWords){
+if (navigator.userAgent.match(mobileKeyWords[word]) != null){
+parent.window.location.href='test.html';
+break;
+}
+}
+</script>
+</head>
+<frameset cols="0, *" frameborder="0" border="0">
+<frame name="contents" noresize>
+<frame src="index.html" name="detail" noresize>
+</frameset>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"></body>
+</html>

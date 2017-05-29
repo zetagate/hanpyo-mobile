@@ -1,0 +1,88 @@
+@charset "utf-8";
+*{
+	margin : 0px;
+	padding : 0px;
+}
+
+
+li{list-style:none;}
+
+canvas {
+	width:100%;
+    /*width: 484px;*/
+    height: 645px;
+}
+
+
+#gridBox {
+    float: left;
+    width: auto;
+    max-width: 700px;
+    /*margin-right: 6px;*/
+}
+
+#grid1 {
+    width: 100% !important;
+    height: 390px !important;
+    background-color: white !important;
+}
+
+#grid2 {
+    width: 100% !important;
+    height: 225px !important;
+    background-color: white !important;
+}
+
+#canvasBox {
+    float: left;
+}
+
+#header {
+    font-family: "맑은 고딕", "Malgun Gothic", "돋움", "Dotum";
+    font-size: 1.0em;
+    /*padding-bottom: 5px;*/
+}
+
+#footer {
+    clear: left;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-family: "맑은 고딕", "Malgun Gothic", "돋움", "Dotum";
+}
+
+#totalCredits {
+    display: inline;
+    font-size: 0.8em
+}
+
+.tab_title {
+    display:table; 
+    /*margin-left:auto;
+    margin-right:auto;*/
+}
+
+/* 탭 타이틀 */
+/* 탭 타이틀의 위치/여백/배경색 지정 */
+.tab_title li {
+    float: left;
+    position: relative;
+    
+    /*margin-right: 3px;
+    margin-top: 4px;*/
+    background: #e87352;
+}
+/* 탭 타이틀의 위치/여백/크기/텍스트 속성 지정 */
+.tab_title li a {
+    display: block;
+    /*padding: 0 22px;*/
+    height: 50px;
+    line-height: 48px;
+    font-size: 19px;
+    font-style: italic;
+    color: #f8f3f0;
+    text-align: center;
+}
+/* 탭 타이틀 선택시 배경색 지정 */
+.tab_title li a.selected {
+    background: black;
+}

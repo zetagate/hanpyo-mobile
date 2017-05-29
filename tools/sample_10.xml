@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<sbj>
+		<cod>MEE430</cod>
+		<ttk>LED광학</ttk>
+		<tty>LED optics</tty>
+		<crd>3</crd>
+		<cls>01</cls>
+		<cap>45</cap>
+		<dep>기계공학부</dep>
+		<tar>기계 4                             </tar>
+		<dvi>학과(전공)일반</dvi>
+		<tm1>월/05A</tm1>
+		<tm2>월/05B</tm2>
+		<tm3>월/06A</tm3>
+		<tm4>월/06B</tm4>
+		<tm5>목/06A</tm5>
+		<tm6>목/06B</tm6>
+		<tm7>목/07A</tm7>
+		<tm8>목/07B</tm8>
+		<tm9> </tm9>
+		<tm10> </tm10>
+		<tm11> </tm11>
+		<tm12> </tm12>
+		<tm13> </tm13>
+		<tm14> </tm14>
+		<tm15> </tm15>
+		<tm16> </tm16>
+		<prf>주병윤</prf>
+		<eng>N</eng>
+		<dsg>1</dsg>
+		<elr>N</elr>
+	</sbj>
+	<sbj>
+		<cod>MED711</cod>
+		<ttk>계측공학</ttk>
+		<tty> </tty>
+		<crd>3</crd>
+		<cls>01</cls>
+		<cap>20</cap>
+		<dep>기계공학부</dep>
+		<tar>기계 4                             </tar>
+		<dvi>학과(전공)일반</dvi>
+		<tm1>화/07A</tm1>
+		<tm2>화/07B</tm2>
+		<tm3>화/08A</tm3>
+		<tm4>화/08B</tm4>
+		<tm5>목/08A</tm5>
+		<tm6>목/08B</tm6>
+		<tm7>목/09A</tm7>
+		<tm8>목/09B</tm8>
+		<tm9> </tm9>
+		<tm10> </tm10>
+		<tm11> </tm11>
+		<tm12> </tm12>
+		<tm13> </tm13>
+		<tm14> </tm14>
+		<tm15> </tm15>
+		<tm16> </tm16>
+		<prf>정경석</prf>
+		<eng>N</eng>
+		<dsg>1</dsg>
+		<elr>N</elr>
+	</sbj>
+	<sbj>
+		<cod>MEG861</cod>
+		<ttk>공학설계Ⅰ(캡스톤디자인)</ttk>
+		<tty>Engineering Design I</tty>
+		<crd>1</crd>
+		<cls>01</cls>
+		<cap>50</cap>
+		<dep>기계공학부</dep>
+		<tar>기계 3                             </tar>
+		<dvi>학부공통핵심</dvi>
+		<tm1>목/10A</tm1>
+		<tm2>목/10B</tm2>
+		<tm3> </tm3>
+		<tm4> </tm4>
+		<tm5> </tm5>
+		<tm6> </tm6>
+		<tm7> </tm7>
+		<tm8> </tm8>
+		<tm9> </tm9>
+		<tm10> </tm10>
+		<tm11> </tm11>
+		<tm12> </tm12>
+		<tm13> </tm13>
+		<tm14> </tm14>
+		<tm15> </tm15>
+		<tm16> </tm16>
+		<prf>조병관</prf>
+		<eng>N</eng>
+		<dsg>1</dsg>
+		<elr>N</elr>
+	</sbj>
+	<sbj>
+		<cod>MEG871</cod>
+		<ttk>공학설계Ⅱ(캡스톤디자인)</ttk>
+		<tty>Engineering Design Ⅱ</tty>
+		<crd>1</crd>
+		<cls>01</cls>
+		<cap>150</cap>
+		<dep>기계공학부</dep>
+		<tar>기계 3                             </tar>
+		<dvi>학부공통핵심</dvi>
+		<tm1>목/10A</tm1>
+		<tm2>목/10B</tm2>
+		<tm3> </tm3>
+		<tm4> </tm4>
+		<tm5> </tm5>
+		<tm6> </tm6>
+		<tm7> </tm7>
+		<tm8> </tm8>
+		<tm9> </tm9>
+		<tm10> </tm10>
+		<tm11> </tm11>
+		<tm12> </tm12>
+		<tm13> </tm13>
+		<tm14> </tm14>
+		<tm15> </tm15>
+		<tm16> </tm16>
+		<prf>조병관</prf>
+		<eng>N</eng>
+		<dsg>1</dsg>
+		<elr>N</elr>
+	</sbj>
+	<sbj>
+		<cod>MEC581</cod>
+		<ttk>그래피칼프로그래밍</ttk>
+		<tty>Automotive Application of Virtual Instruments</tty>
+		<crd>3</crd>
+		<cls>01</cls>
+		<cap>20</cap>
+		<dep>기계공학부</dep>
+		<tar>기계 4                             </tar>
+		<dvi>학과(전공)일반</dvi>
+		<tm1>화/01A</tm1>
+		<tm2>화/01B</tm2>
+		<tm3>화/02A</tm3>
+		<tm4>화/02B</tm4>
+		<tm5>수/03A</tm5>
+		<tm6>수/03B</tm6>
+		<tm7>수/04A</tm7>
+		<tm8>수/04B</tm8>
+		<tm9> </tm9>
+		<tm10> </tm10>
+		<tm11> </tm11>
+		<tm12> </tm12>
+		<tm13> </tm13>
+		<tm14> </tm14>
+		<tm15> </tm15>
+		<tm16> </tm16>
+		<prf>최성주</prf>
+		<eng>N</eng>
+		<dsg>1</dsg>
+		<elr>N</elr>
+	</sbj>
+	<sbj>
+		<cod>MEC365</cod>
+		<ttk>기계재료학</ttk>
+		<tty>Materials for Mechnical Engineering</tty>
+		<crd>2</crd>
+		<cls>01</cls>
+		<cap>45</cap>
+		<dep>기계공학부</dep>
+		<tar>기계 2                             </tar>
+		<dvi>학과(전공)핵심</dvi>
+		<tm1>목/08A</tm1>
+		<tm2>목/08B</tm2>
+		<tm3>목/09A</tm3>
+		<tm4>목/09B</tm4>
+		<tm5> </tm5>
+		<tm6> </tm6>
+		<tm7> </tm7>
+		<tm8> </tm8>
+		<tm9> </tm9>
+		<tm10> </tm10>
+		<tm11> </tm11>
+		<tm12> </tm12>
+		<tm13> </tm13>
+		<tm14> </tm14>
+		<tm15> </tm15>
+		<tm16> </tm16>
+		<prf>이광주</prf>
+		<eng>N</eng>
+		<dsg>0</dsg>
+		<elr>N</elr>
+	</sbj>
+	<sbj>
+		<cod>MEC365</cod>
+		<ttk>기계재료학</ttk>
+		<tty>Materials for Mechnical Engineering</tty>
+		<crd>2</crd>
+		<cls>02</cls>
+		<cap>45</cap>
+		<dep>기계공학부</dep>
+		<tar>기계 2                             </tar>
+		<dvi>학과(전공)핵심</dvi>
+		<tm1>목/08A</tm1>
+		<tm2>목/08B</tm2>
+		<tm3>목/09A</tm3>
+		<tm4>목/09B</tm4>
+		<tm5> </tm5>
+		<tm6> </tm6>
+		<tm7> </tm7>
+		<tm8> </tm8>
+		<tm9> </tm9>
+		<tm10> </tm10>
+		<tm11> </tm11>
+		<tm12> </tm12>
+		<tm13> </tm13>
+		<tm14> </tm14>
+		<tm15> </tm15>
+		<tm16> </tm16>
+		<prf>양승용</prf>
+		<eng>N</eng>
+		<dsg>0</dsg>
+		<elr>N</elr>
+	</sbj>
+	<sbj>
+		<cod>MEC365</cod>
+		<ttk>기계재료학</ttk>
+		<tty>Materials for Mechnical Engineering</tty>
+		<crd>2</crd>
+		<cls>03</cls>
+		<cap>45</cap>
+		<dep>기계공학부</dep>
+		<tar>기계 2                             </tar>
+		<dvi>학과(전공)핵심</dvi>
+		<tm1>월/03A</tm1>
+		<tm2>월/03B</tm2>
+		<tm3>수/05A</tm3>
+		<tm4>수/05B</tm4>
+		<tm5> </tm5>
+		<tm6> </tm6>
+		<tm7> </tm7>
+		<tm8> </tm8>
+		<tm9> </tm9>
+		<tm10> </tm10>
+		<tm11> </tm11>
+		<tm12> </tm12>
+		<tm13> </tm13>
+		<tm14> </tm14>
+		<tm15> </tm15>
+		<tm16> </tm16>
+		<prf>주병윤</prf>
+		<eng>N</eng>
+		<dsg>0</dsg>
+		<elr>N</elr>
+	</sbj>
+	<sbj>
+		<cod>MEC365</cod>
+		<ttk>기계재료학</ttk>
+		<tty>Materials for Mechnical Engineering</tty>
+		<crd>2</crd>
+		<cls>04</cls>
+		<cap>45</cap>
+		<dep>기계공학부</dep>
+		<tar>기계 2                             </tar>
+		<dvi>학과(전공)핵심</dvi>
+		<tm1>월/03A</tm1>
+		<tm2>월/03B</tm2>
+		<tm3>수/05A</tm3>
+		<tm4>수/05B</tm4>
+		<tm5> </tm5>
+		<tm6> </tm6>
+		<tm7> </tm7>
+		<tm8> </tm8>
+		<tm9> </tm9>
+		<tm10> </tm10>
+		<tm11> </tm11>
+		<tm12> </tm12>
+		<tm13> </tm13>
+		<tm14> </tm14>
+		<tm15> </tm15>
+		<tm16> </tm16>
+		<prf>이해성</prf>
+		<eng>N</eng>
+		<dsg>0</dsg>
+		<elr>N</elr>
+	</sbj>
+	<sbj>
+		<cod>MED600</cod>
+		<ttk>기초유한요소법</ttk>
+		<tty>Introduction to Finite Element Methods</tty>
+		<crd>3</crd>
+		<cls>01</cls>
+		<cap>45</cap>
+		<dep>기계공학부</dep>
+		<tar>기계 3                             </tar>
+		<dvi>학과(전공)일반</dvi>
+		<tm1>수/03A</tm1>
+		<tm2>수/03B</tm2>
+		<tm3>수/04A</tm3>
+		<tm4>수/04B</tm4>
+		<tm5>목/06A</tm5>
+		<tm6>목/06B</tm6>
+		<tm7>목/07A</tm7>
+		<tm8>목/07B</tm8>
+		<tm9> </tm9>
+		<tm10> </tm10>
+		<tm11> </tm11>
+		<tm12> </tm12>
+		<tm13> </tm13>
+		<tm14> </tm14>
+		<tm15> </tm15>
+		<tm16> </tm16>
+		<prf>양승용</prf>
+		<eng>N</eng>
+		<dsg>1</dsg>
+		<elr>N</elr>
+	</sbj>
+	<sbj>
+		<cod>MEB321</cod>
+		<ttk>동역학</ttk>
+		<tty>Dynamics</tty>
+		<crd>3</crd>
+		<cls>01</cls>
+		<cap>40</cap>
+		<dep>기계공학부</dep>
+		<tar>기계 2                             </tar>
+		<dvi>학부공통핵심</dvi>
+		<tm1>월/08A</tm1>
+		<tm2>월/08B</tm2>
+		<tm3>월/09A</tm3>
+		<tm4>월/09B</tm4>
+		<tm5>수/01A</tm5>
+		<tm6>수/01B</tm6>
+		<tm7> </tm7>
+		<tm8> </tm8>
+		<tm9> </tm9>
+		<tm10> </tm10>
+		<tm11> </tm11>
+		<tm12> </tm12>
+		<tm13> </tm13>
+		<tm14> </tm14>
+		<tm15> </tm15>
+		<tm16> </tm16>
+		<prf>조병관</prf>
+		<eng>N</eng>
+		<dsg>0</dsg>
+		<elr>N</elr>
+	</sbj>
+	<sbj>
+		<cod>MEB321</cod>
+		<ttk>동역학</ttk>
+		<tty>Dynamics</tty>
+		<crd>3</crd>
+		<cls>02</cls>
+		<cap>40</cap>
+		<dep>기계공학부</dep>
+		<tar>기계 2                             </tar>
+		<dvi>학부공통핵심</dvi>
+		<tm1>화/01A</tm1>
+		<tm2>화/01B</tm2>
+		<tm3>화/02A</tm3>
+		<tm4>화/02B</tm4>
+		<tm5>수/02A</tm5>
+		<tm6>수/02B</tm6>
+		<tm7> </tm7>
+		<tm8> </tm8>
+		<tm9> </tm9>
+		<tm10> </tm10>
+		<tm11> </tm11>
+		<tm12> </tm12>
+		<tm13> </tm13>
+		<tm14> </tm14>
+		<tm15> </tm15>
+		<tm16> </tm16>
+		<prf>조병관</prf>
+		<eng>N</eng>
+		<dsg>0</dsg>
+		<elr>N</elr>
+	</sbj>
+	<sbj>
+		<cod>MEB321</cod>
+		<ttk>동역학</ttk>
+		<tty>Dynamics</tty>
+		<crd>3</crd>
+		<cls>03</cls>
+		<cap>40</cap>
+		<dep>기계공학부</dep>
+		<tar>기계 2                             </tar>
+		<dvi>학부공통핵심</dvi>
+		<tm1>월/03A</tm1>
+		<tm2>월/03B</tm2>
+		<tm3>수/03A</tm3>
+		<tm4>수/03B</tm4>
+		<tm5>수/04A</tm5>
+		<tm6>수/04B</tm6>
+		<tm7> </tm7>
+		<tm8> </tm8>
+		<tm9> </tm9>
+		<tm10> </tm10>
+		<tm11> </tm11>
+		<tm12> </tm12>
+		<tm13> </tm13>
+		<tm14> </tm14>
+		<tm15> </tm15>
+		<tm16> </tm16>
+		<prf>정해일</prf>
+		<eng>N</eng>
+		<dsg>0</dsg>
+		<elr>N</elr>
+	</sbj>
+	<sbj>
+		<cod>MEB321</cod>
+		<ttk>동역학</ttk>
+		<tty>Dynamics</tty>
+		<crd>3</crd>
+		<cls>04</cls>
+		<cap>40</cap>
+		<dep>기계공학부</dep>
+		<tar>기계 2                             </tar>
+		<dvi>학부공통핵심</dvi>
+		<tm1>수/03A</tm1>
+		<tm2>수/03B</tm2>
+		<tm3>수/04A</tm3>
+		<tm4>수/04B</tm4>
+		<tm5>목/03A</tm5>
+		<tm6>목/03B</tm6>
+		<tm7> </tm7>
+		<tm8> </tm8>
+		<tm9> </tm9>
+		<tm10> </tm10>
+		<tm11> </tm11>
+		<tm12> </tm12>
+		<tm13> </tm13>
+		<tm14> </tm14>
+		<tm15> </tm15>
+		<tm16> </tm16>
+		<prf>신동호</prf>
+		<eng>N</eng>
+		<dsg>0</dsg>
+		<elr>N</elr>
+	</sbj>
+	<sbj>
+		<cod>MEB321</cod>
+		<ttk>동역학</ttk>
+		<tty>Dynamics</tty>
+		<crd>3</crd>
+		<cls>05</cls>
+		<cap>40</cap>
+		<dep>기계공학부</dep>
+		<tar>기계 2                             </tar>
+		<dvi>학부공통핵심</dvi>
+		<tm1>월/03A</tm1>
+		<tm2>월/03B</tm2>
+		<tm3>수/01A</tm3>
+		<tm4>수/01B</tm4>
+		<tm5>수/02A</tm5>
+		<tm6>수/02B</tm6>
+		<tm7> </tm7>
+		<tm8> </tm8>
+		<tm9> </tm9>
+		<tm10> </tm10>
+		<tm11> </tm11>
+		<tm12> </tm12>
+		<tm13> </tm13>
+		<tm14> </tm14>
+		<tm15> </tm15>
+		<tm16> </tm16>
+		<prf>다니엘트레이너</prf>
+		<eng>Y</eng>
+		<dsg>0</dsg>
+		<elr>N</elr>
+	</sbj>
+	<sbj>
+		<cod>MEH220</cod>
+		<ttk>로봇공학개론</ttk>
+		<tty>Introduction to Robotics</tty>
+		<crd>3</crd>
+		<cls>01</cls>
+		<cap>45</cap>
+		<dep>기계공학부</dep>
+		<tar>기계 3                             </tar>
+		<dvi>학과(전공)일반</dvi>
+		<tm1>월/03A</tm1>
+		<tm2>월/03B</tm2>
+		<tm3>월/04A</tm3>
+		<tm4>월/04B</tm4>
+		<tm5>수/01A</tm5>
+		<tm6>수/01B</tm6>
+		<tm7>수/02A</tm7>
+		<tm8>수/02B</tm8>
+		<tm9> </tm9>
+		<tm10> </tm10>
+		<tm11> </tm11>
+		<tm12> </tm12>
+		<tm13> </tm13>
+		<tm14> </tm14>
+		<tm15> </tm15>
+		<tm16> </tm16>
+		<prf>이고르</prf>
+		<eng>Y</eng>
+		<dsg>1</dsg>
+		<elr>N</elr>
+	</sbj>
+	
+</root>

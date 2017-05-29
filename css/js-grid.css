@@ -1,0 +1,21 @@
+.js-grid-sortable-th {
+  cursor: pointer;
+}
+
+.js-grid-order-direction {
+  margin-left: 5px;
+}
+
+.js-grid-hover tbody>tr {
+  cursor: default;
+}
+
+th.js-grid-sortable-th:hover,
+.js-grid-hover tbody>tr:hover {
+  background-color: #E6ECF2;
+}
+
+.js-grid-hover tbody>tr.js-grid-selected,
+.js-grid-hover tbody>tr.js-grid-selected:hover {
+  background-color: #9dccea;
+}
